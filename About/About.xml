@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Set Resource Weight</name>
+  <author>Neceros</author>
+  <supportedVersions>
+    <li>1.1</li>
+  </supportedVersions>
+  <packageId>neceros.setresourceweight</packageId>
+  <description>But why does silver weigh as much as gold?</description>
+</ModMetaData>
